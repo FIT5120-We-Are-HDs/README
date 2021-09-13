@@ -15,11 +15,15 @@ External Help - A feature provide users who experienced or are experiencing gend
 Languages:
 
 Javascript: A language that help to implement the function of the website.
+
 CSS: A language that used for designing the website, such as Fonts and colors and things like that.
+
 HTML: A language that used to develop the website. It can define where to put the button and the text and things like that.
 
 Tools:
 
 Virtual Studio: The platform that used to develop the website.
+
 Azure: The platform that used to bulit server and publish the product.
+
 Unity: The platform that used to develop the game which is called Life of Natalie. 
