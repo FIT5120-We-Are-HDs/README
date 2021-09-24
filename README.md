@@ -12,6 +12,8 @@ Take Action - A feature provide users with the suggestion and method that users 
 
 External Help - A feature provide users who experienced or are experiencing gender inequality issues, with different kinds of organisations that they can seek help.
 
+Events - A feaature provide users with detailed information of gender equality event around Australia. Users can also download the event's detail and list as the format of PDF.
+
 Languages:
 
 Javascript: A language that help to implement the function of the website.
